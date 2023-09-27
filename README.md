@@ -19,7 +19,7 @@ Experienced in managing teams of 7-10 people.</p>
   <li>SerpStat;</li>
   <li>SemRush;</li>
   <li>Screaming Frog;</li>
-  <li>JetOctopus.;</li>
+  <li>JetOctopus.</li>
 </ul>
 
 <!--
