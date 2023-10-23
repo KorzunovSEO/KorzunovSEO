@@ -21,7 +21,7 @@ Experienced in managing teams of 7-10 people.</p>
   <li>Screaming Frog;</li>
   <li>JetOctopus.</li>
 </ul>
-<p style="display:none;">Дмитро Корзунов просування, Дмитро Корзунов SEO спеціаліст, Дмитрий Корзунов СЕО, KorzunovSEO, DmitrySEO, КорзуновСЕО, SEO оптимізація, приватний SEO фахівець</p>
+<p style="display:none;width:0px;height:0px;">Дмитро Корзунов просування, Дмитро Корзунов SEO спеціаліст, Дмитрий Корзунов СЕО, KorzunovSEO, DmitrySEO, КорзуновСЕО, SEO оптимізація, приватний SEO фахівець</p>
 <!--
 **KorzunovSEO/KorzunovSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
