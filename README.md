@@ -21,8 +21,8 @@ Experienced in managing teams of 7-10 people.</p>
   <li>Screaming Frog;</li>
   <li>JetOctopus.</li>
 </ul>
-<img src="https://sitechecker.pro/wp-content/uploads/2018/02/Knowledge-base-part-3_what-is-seo.jpg">
-<!--
+<p style="text-align:center;"><img src="https://sitechecker.pro/wp-content/uploads/2018/02/Knowledge-base-part-3_what-is-seo.jpg">
+</p><!--
 **KorzunovSEO/KorzunovSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
